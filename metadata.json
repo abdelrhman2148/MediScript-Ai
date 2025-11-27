@@ -1,0 +1,5 @@
+{
+  "name": "MediScript AI",
+  "description": "A medical prescription digitization platform using Gemini to extract, review, and store prescription data from PDF uploads.",
+  "requestFramePermissions": []
+}
